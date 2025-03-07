@@ -1,5 +1,3 @@
-// FA22-BCS-028
-// Zuhra Salman
 
 #include <stdio.h>
 #include <stdlib.h>
